@@ -1,0 +1,8 @@
+/home/makis/IdeaProjects/learning/SpringStartHere/aspects-ch6/src/main/java/org/springstarthere/aspects/LoggingAspect.java
+/home/makis/IdeaProjects/learning/SpringStartHere/aspects-ch6/src/main/java/org/springstarthere/aspects/LoggingAspectWithoutAnnotation.java
+/home/makis/IdeaProjects/learning/SpringStartHere/aspects-ch6/src/main/java/org/springstarthere/aspects/SecurityAspect.java
+/home/makis/IdeaProjects/learning/SpringStartHere/aspects-ch6/src/main/java/org/springstarthere/services/CommentService.java
+/home/makis/IdeaProjects/learning/SpringStartHere/aspects-ch6/src/main/java/org/springstarthere/model/Comment.java
+/home/makis/IdeaProjects/learning/SpringStartHere/aspects-ch6/src/main/java/org/springstarthere/configuration/ProjectConfig.java
+/home/makis/IdeaProjects/learning/SpringStartHere/aspects-ch6/src/main/java/org/springstarthere/Main.java
+/home/makis/IdeaProjects/learning/SpringStartHere/aspects-ch6/src/main/java/org/springstarthere/annotations/ToLog.java

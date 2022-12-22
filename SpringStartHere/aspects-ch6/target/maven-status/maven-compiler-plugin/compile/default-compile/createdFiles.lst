@@ -1,0 +1,8 @@
+org/springstarthere/Main.class
+org/springstarthere/aspects/LoggingAspectWithoutAnnotation.class
+org/springstarthere/services/CommentService.class
+org/springstarthere/model/Comment.class
+org/springstarthere/aspects/SecurityAspect.class
+org/springstarthere/annotations/ToLog.class
+org/springstarthere/configuration/ProjectConfig.class
+org/springstarthere/aspects/LoggingAspect.class
