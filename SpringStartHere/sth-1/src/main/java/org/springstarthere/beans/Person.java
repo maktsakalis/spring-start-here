@@ -1,4 +1,4 @@
-package beans;
+package org.springstarthere.beans;
 
 //@Component(value = "stereotype_person")
 public class Person {

@@ -1,12 +1,10 @@
-package configuration;
+package org.springstarthere.configuration;
 
-import beans.Person;
+import org.springstarthere.beans.Person;
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
-import beans.Parrot;
-import org.springframework.context.annotation.Primary;
+import org.springstarthere.beans.Parrot;
 
 @Configuration
 //@ComponentScan("beans")

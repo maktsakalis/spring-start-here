@@ -1,4 +1,4 @@
-package beans;
+package org.springstarthere.beans;
 
 public class Parrot {
 

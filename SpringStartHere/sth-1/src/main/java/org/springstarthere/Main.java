@@ -1,7 +1,7 @@
 package org.springstarthere;
 
-import beans.Person;
-import configuration.ProjectConfig;
+import org.springstarthere.beans.Person;
+import org.springstarthere.configuration.ProjectConfig;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main {
