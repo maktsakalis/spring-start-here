@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.service.AuthenticationService;
+
 public class LoginController {
     private AuthenticationService authenticationService;
 

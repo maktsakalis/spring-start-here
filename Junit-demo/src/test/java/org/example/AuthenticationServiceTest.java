@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.repository.UserRepository;
+import org.example.service.AuthenticationService;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
